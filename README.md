@@ -1,4 +1,4 @@
-# Mental_health_analysis_sqlproject
+Mental Health Trait Analysis
 
 This project analyzes a dataset containing psychological traits, specifically social anxiety and autistic traits scores, collected from various individuals. The goal is to extract meaningful insights about trends, correlations, and distributions based on different demographic and psychological dimensions. The data is stored in a table called traits, which includes attributes like age, gender, social anxiety scores, autistic traits scores, and possibly timestamps of data collection.
 
